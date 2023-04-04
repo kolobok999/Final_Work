@@ -1,0 +1,15 @@
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\bin\Debug\net6.0\Final_Work.exe
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\bin\Debug\net6.0\Final_Work.deps.json
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\bin\Debug\net6.0\Final_Work.runtimeconfig.json
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\bin\Debug\net6.0\Final_Work.dll
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\bin\Debug\net6.0\Final_Work.pdb
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.csproj.AssemblyReference.cache
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.GeneratedMSBuildEditorConfig.editorconfig
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.AssemblyInfoInputs.cache
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.AssemblyInfo.cs
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.csproj.CoreCompileInputs.cache
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.dll
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\refint\Final_Work.dll
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.pdb
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\Final_Work.genruntimeconfig.cache
+E:\Documents\Programming\GeekBrains\GB_1_quarter\Final_Work\obj\Debug\net6.0\ref\Final_Work.dll
